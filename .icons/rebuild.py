@@ -19,6 +19,7 @@ for (outname, (author, iconname)) in game_icons.items():
     outname = outname + ".png"
     cairosvg.svg2png(bytestring=svg, write_to=outname, output_width=20, output_height=20)
     with open(outname + ".license", "w") as licensefile:
-        print("SPDX-License-Identifier: CC-BY-3.0", file=licensefile)
+        # String is split up because reuse tools would otherwise think this applies here
+        print("SPDX-License" + "-Identifier: CC-BY-3.0", file=licensefile)
         print(f"SPDX-License-CopyrightText: {author}", file=licensefile)
         print(f"Original file from https://game-icons.net/1x1/{author}/{iconname}.html", file=licensefile)

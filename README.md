@@ -25,6 +25,8 @@ Projects using RIOT OS
 
 * [MiniLoon](https://www.hackster.io/386121/miniloon-60a9c9): A RIOT powered balloon with sensors to monitor it's environment and an App that can display these information.
 * [Marian's Business Card](https://github.com/maribu/business-card): Hardware description, board support, games and text display software for business card sized board with USB power supply.
+* The [DLR FR8-LAB](https://elib.dlr.de/186155/) is a self-contained swap-body container used for aerodynamic measurements.
+  The RIOT based software reading out the sensor was part of a [master thesis](https://comsys.ovgu.de/Thesis+Topics/Finished+Theses/Pham+Huu+Quang+2021.html) with the [task](https://comsys.ovgu.de/comsys_media/thesis/MSc/Pressure+Fluctuation+Monitoring+System.pdf) to read out pressure sensors in a synchronized manner with a high synchronization accuracy.
 * [Marian's demo boards](https://github.com/maribu/boards): Various PCBs, including an RGB Christmas tree board, along with RIOT board support for most boards.
 
 More lists

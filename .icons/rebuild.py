@@ -21,5 +21,5 @@ for (outname, (author, iconname)) in game_icons.items():
     with open(outname + ".license", "w") as licensefile:
         # String is split up because reuse tools would otherwise think this applies here
         print("SPDX-License" + "-Identifier: CC-BY-3.0", file=licensefile)
-        print(f"SPDX-License-CopyrightText: {author}", file=licensefile)
+        print("SPDX-" + f"FileCopyrightText: {author}", file=licensefile)
         print(f"Original file from https://game-icons.net/1x1/{author}/{iconname}.html", file=licensefile)

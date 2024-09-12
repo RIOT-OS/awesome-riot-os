@@ -23,6 +23,7 @@ As part of the RIOT project, the [RIOT code of conduct] applies.
 Projects using RIOT OS
 ----------------------
 
+* RIOT in space: [ThingSat.space](https://github.com/thingsat/) is using RIOT on CubSats to create an open source Low Power Global Area Network (LPGAN)
 * [Marian's Business Card](https://github.com/maribu/business-card): Hardware description, board support, games and text display software for business card sized board with USB power supply.
 * [Marian's demo boards](https://github.com/maribu/boards): Various PCBs, including an RGB Christmas tree board, along with RIOT board support for most boards.
 

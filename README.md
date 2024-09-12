@@ -24,6 +24,7 @@ Projects using RIOT OS
 ----------------------
 
 * RIOT in space: [ThingSat.space](https://github.com/thingsat/) is using RIOT on CubSats to create an open source Low Power Global Area Network (LPGAN)
+* [MiniLoon](https://www.hackster.io/386121/miniloon-60a9c9): A RIOT powered balloon with sensors to monitor it's environment and an App that can display these information.
 * [Marian's Business Card](https://github.com/maribu/business-card): Hardware description, board support, games and text display software for business card sized board with USB power supply.
 * [Marian's demo boards](https://github.com/maribu/boards): Various PCBs, including an RGB Christmas tree board, along with RIOT board support for most boards.
 

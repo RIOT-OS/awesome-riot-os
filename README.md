@@ -8,8 +8,11 @@ SPDX-FileCopyrightText: The RIOT OS contributors
 This file is a curated list of projects using and resources for [RIOT OS], the Friendly OS for the Internet of Things.
 
 This repo is maintained by [RIOT maintainers](https://github.com/orgs/RIOT-OS/teams/maintainers).
+Please contribute by opening pull requests.
+As part of the RIOT project, the [RIOT code of conduct] applies.
 
 [RIOT OS]: https://www.riot-os.org/
+[RIOT code of conduct]: https://github.com/RIOT-OS/RIOT/blob/master/CODE_OF_CONDUCT.md
 
 Projects using RIOT OS
 ----------------------

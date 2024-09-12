@@ -3,10 +3,11 @@ SPDX-License-Identifier: CC0-1.0
 SPDX-FileCopyrightText: The RIOT OS contributors
 -->
 
-RIOT OS resources
-=================
+# awesome-riot
 
 This file is a curated list of projects using and resources for [RIOT OS], the Friendly OS for the Internet of Things.
+
+This repo is maintained by [RIOT maintainers](https://github.com/orgs/RIOT-OS/teams/maintainers).
 
 [RIOT OS]: https://www.riot-os.org/
 

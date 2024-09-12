@@ -3,6 +3,12 @@ SPDX-License-Identifier: CC0-1.0
 SPDX-FileCopyrightText: The RIOT OS contributors
 -->
 
+# Work in progress
+
+This page is just in the process of being built.
+Once it is switched to "production mode",
+this note will be removed, and further changes happen through pull requests.
+
 # awesome-riot
 
 This file is a curated list of projects using and resources for [RIOT OS], the Friendly OS for the Internet of Things.

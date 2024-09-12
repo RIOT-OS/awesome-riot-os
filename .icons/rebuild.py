@@ -15,7 +15,7 @@ game_icons = {
         }
 
 for (outname, (author, iconname)) in game_icons.items():
-    svg = urllib.request.urlopen(f"https://game-icons.net/icons/ffffff/000000/1x1/{author}/{iconname}.svg").read()
+    svg = urllib.request.urlopen(f"https://game-icons.net/icons/000000/ffffff/1x1/{author}/{iconname}.svg").read()
     outname = outname + ".png"
     cairosvg.svg2png(bytestring=svg, write_to=outname, output_width=20, output_height=20)
     with open(outname + ".license", "w") as licensefile:

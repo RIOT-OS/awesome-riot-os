@@ -33,6 +33,7 @@ or RIOT applications (![app]).
 * ![board] ![app] [MiniLoon](https://www.hackster.io/386121/miniloon-60a9c9): A RIOT powered balloon with sensors to monitor it's environment and an App that can display these information.
 * ![oshw] ![board] ![app] [Marian's Business Card](https://github.com/maribu/business-card): Hardware description, board support, games and text display software for business card sized board with USB power supply.
 * ![board] [Marian's demo boards](https://github.com/maribu/boards): Various PCBs, including an RGB Christmas tree board, along with RIOT board support for most boards.
+* ![oshw] ![board] ![app] [Teamagochi](https://github.com/smartuni/teamagochi): A synchronized always-online pet simulator with multiplayer functionality powered by RIOT​ consisting of a [physical device (Node)](https://github.com/smartuni/teamagochi/tree/main/node), [web backend](https://github.com/smartuni/teamagochi/tree/main/web_backend) and [web/mobile frontend](https://github.com/smartuni/teamagochi/tree/main/frontend)
 
 More lists
 ----------

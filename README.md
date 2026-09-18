@@ -34,6 +34,7 @@ or RIOT applications (![app]).
 * ![oshw] ![board] ![app] [Marian's Business Card](https://github.com/maribu/business-card): Hardware description, board support, games and text display software for business card sized board with USB power supply.
 * ![board] [Marian's demo boards](https://github.com/maribu/boards): Various PCBs, including an RGB Christmas tree board, along with RIOT board support for most boards.
 * ![oshw] ![board] ![app] [Teamagochi](https://github.com/smartuni/teamagochi): A synchronized always-online pet simulator with multiplayer functionality powered by RIOT​ consisting of a [physical device (Node)](https://github.com/smartuni/teamagochi/tree/main/node), [web backend](https://github.com/smartuni/teamagochi/tree/main/web_backend) and [web/mobile frontend](https://github.com/smartuni/teamagochi/tree/main/frontend)
+* ![module] ![app] [TimeCast-AT](https://github.com/merlins123/TimeCast-AT): A synchronous flooding application for RIOT OS, built on the external nrf_sf_radio module for scheduled radio transmission, reception, and hardware timestamps on nRF52 devices.
 
 More lists
 ----------
